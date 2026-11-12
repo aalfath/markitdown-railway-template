@@ -1,5 +1,7 @@
 # Deploy and Host MarkItDown on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/markitdown?utm_medium=integration&utm_source=button&utm_campaign=markitdown)
+
 MarkItDown is Microsoft's Python tool for converting documents to Markdown for LLMs and text pipelines. It handles PDF, Word, Excel, PowerPoint, HTML, CSV, JSON, XML, EPUB, ZIP archives and images with metadata, keeping headings, lists, tables and links, so documents can be indexed, embedded or passed to a model.
 
 ## About Hosting MarkItDown
